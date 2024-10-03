@@ -25,4 +25,4 @@ To solve this issue, we built a lightweight and fast alternative for calculating
 
 Clone the repository to your local machine:
 ```bash
-https://github.com/siddhpandya/ta_library.git
+git clone https://github.com/siddhpandya/ta_library.git
