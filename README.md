@@ -25,4 +25,4 @@ To solve this issue, we built a lightweight and fast alternative for calculating
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/fast-adx-ema-indicator.git
+https://github.com/siddhpandya/ta_library.git
